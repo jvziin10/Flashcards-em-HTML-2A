@@ -1,0 +1,16 @@
+;root{--text-color#DBE4EF;--card-front-color:#144480;--card-black-color:#00F4NF;}
+ody b{
+background-color: bisque;
+font-family: Bai jamjuree;
+}
+
+#container {
+display: flex;
+}
+
+.cartão {
+margin: 1irem 1irem;
+background-color: aqua height: 20rem;
+flex-grow: 1;
+flex-basis: calc(33%-6rem);
+}
