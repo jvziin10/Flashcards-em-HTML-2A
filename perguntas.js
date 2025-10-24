@@ -8,4 +8,4 @@ criaCartao(
 criaCartao('Programaçao',
     'O que é uma função',
     'Uma funçao é um bloco de que codigo que executa alguma tarefa'
-)
+)criaCartao('lingua inglesa','Como se diz oi em inglês?','Oi em ingles é HI (RAI)')
